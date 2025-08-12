@@ -3,9 +3,9 @@
 ![Demo App](/frontend/public/Gemini_Generated_Image_lj2mcnlj2mcnlj2m.png)
 
 ## Demo
-```
+
 [Streamify Live Demo](https://streamify-ya6f.onrender.com/)
-```
+
 
 Highlights:
 
