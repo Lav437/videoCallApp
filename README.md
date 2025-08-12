@@ -4,7 +4,7 @@
 
 ## Demo
 ```
-[https://streamify-ya6f.onrender.com/](URL)
+[Strimify](https://streamify-ya6f.onrender.com/)
 ```
 
 Highlights:
