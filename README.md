@@ -4,7 +4,7 @@
 
 ## Demo
 ```
-[Strimify](https://streamify-ya6f.onrender.com/)
+[Streamify Live Demo](https://streamify-ya6f.onrender.com/)
 ```
 
 Highlights:
